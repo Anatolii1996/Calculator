@@ -1,5 +1,2 @@
 const assert = require("assert");
-
-it("должно возвращать true", ()=>{
-    assert.equal(true, true);
-})
+const main = require("../main");

@@ -25,5 +25,5 @@ function calc() {
     result.innerHTML = `${res} `;
 }
 
-
+module.exports={calc};
 
