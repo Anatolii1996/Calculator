@@ -25,5 +25,10 @@ function calc() {
     result.innerHTML = `${res} `;
 }
 
-module.exports={calc};
+const add = (x, y) => (+x) + (+y);
+const subtract = (x, y) => (+x) - (+y);
+const multiply = (x, y) => (+x) * (+y);
+const divide = (x, y) => (+x) / (+y);
+
+module.exports = { calc, add, subtract, multiply, divide };
 
