@@ -1,0 +1,22 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anatolii1996/Calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anatolii1996/Calculator/issues"
+  },
+  "homepage": "https://github.com/Anatolii1996/Calculator#readme",
+  "devDependencies": {
+    "mocha": "^10.1.0"
+  }
+}
