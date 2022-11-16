@@ -25,3 +25,5 @@ function calc() {
     result.innerHTML = `${res} `;
 }
 
+
+
